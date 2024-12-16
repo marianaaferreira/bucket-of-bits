@@ -1,0 +1,6 @@
+[package]
+name = "move-no-retorno"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
